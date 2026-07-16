@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-tgrggf.inatogel45yeg.lat/sitemap.xml
